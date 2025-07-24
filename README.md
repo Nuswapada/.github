@@ -1,5 +1,3 @@
-# .github
-
 # Nuswapada · Capstone Project Infinite Learning 2025
 
 <div align="center">
@@ -24,7 +22,7 @@ Menggabungkan teknologi **AI image classifier** dan sistem misi (quest), penggun
 
 - 🔍 **AI Landmark Detection** – Validasi kunjungan dengan mengunggah foto, didukung AI klasifikasi gambar.
 - 🗺️ **Eksplorasi Peta Interaktif** – Petakan dan jelajahi lokasi-lokasi penting di Pulau Penyengat.
-- 💬 **Chat & Bantuan Virtual** – Terhubung langsung dengan sistem bantuan jika mengalami kendala selama petualangan.
+- 💬 **Chat** – Merupakan fitur chat untuk pesan becak motor Gelis.
 - 🎖️ **Leveling & Badge System** – Dapatkan pengalaman dan pencapaian dari setiap landmark yang dikunjungi.
 - 🧭 **Mode Quest / Petualangan** – Ikuti misi unik yang memberikan edukasi dan hiburan.
 
@@ -56,19 +54,27 @@ Menggabungkan teknologi **AI image classifier** dan sistem misi (quest), penggun
 | **Frontend** | Android (Jetpack Compose) |
 | **Backend** | Python FastAPI |
 | **AI Model** | Image Classification dengan TensorFlow |
-| **Deployment** | GitHub Codespaces + Render |
-| **Tools** | Figma, Git, Colab, SQLite |
+| **Deployment** | Huggingface Space + Render |
+| **Tools** | Figma, Git, Colab, Android Studio |
 
 ---
 
 ## 👨‍👩‍👧‍👦 Anggota Tim Nuswapada
 
-| Nama | Role |
-|------|------|
-| [Vinsensius Fendy Kurniawan](https://www.linkedin.com/in/vinsensius-fendy-kurniawan/) | Android Developer |
-| (Isi nama anggota lain) | AI Developer |
-| (Isi nama anggota lain) | Designer |
-| (Isi nama anggota lain) | Project Manager |
+Kami terdiri dari 10 orang dengan latar belakang berbeda dari divisi **Mobile Development** dan **AI Development** Kampus Merdeka Mandiri Batch 8 Infinite Learning 2025.
+
+| Nama | Peran | LinkedIn |
+|------|-------|----------|
+| Vinsensius Fendy Kurniawan | ML Engineer, MLOps, Project Manager | [LinkedIn](https://www.linkedin.com/in/vinsensius-fendy-kurniawan-86ab50293) |
+| Nabilah Putri Wijaya | Machine Learning Engineer | [LinkedIn](https://www.linkedin.com/in/nabilah-putri-wijaya-52b2bb291/) |
+| Ilham Akbarian | Mobile Developer | [LinkedIn](https://www.linkedin.com/in/ilham-akbarian-06712436a) |
+| Ade Alrizal | Mobile Developer | [LinkedIn](https://www.linkedin.com/in/ade-alrizal-715899345) |
+| Angga Kurniawan | Scrum Master, Android Lead | [LinkedIn](https://www.linkedin.com/in/angga-kurniawan-376a7620b) |
+| Putri Maharani | UI/UX Designer | [LinkedIn](http://linkedin.com/in/putri-maharani-b78257284) |
+| Andhika Laksamana Putra Alka | Design Researcher | [LinkedIn](https://www.linkedin.com/in/andhika-laksmana-putra-alka/) |
+| Syahana Arman | Data Engineer | [LinkedIn](https://www.linkedin.com/in/syahanaarman) |
+| Muhammad Rahmananda Arief Wibisono | Data Engineer | [LinkedIn](https://www.linkedin.com/in/muhammadrahmanandaariefwibisono/) |
+| Komang | Mobile Developer | _(belum tersedia)_ |
 
 ---
 
@@ -84,8 +90,7 @@ Melalui aplikasi ini, kami berharap dapat memperkenalkan nilai historis dan kear
 
 Untuk informasi lebih lanjut atau kolaborasi:
 
-📧 Email: [nuswapada.team@example.com]  
-🌐 Website: [Coming Soon]
+📧 Email: [nuswapada5@gmail.com]  
 
 ---
 
