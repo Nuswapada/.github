@@ -1,7 +1,7 @@
 # Nuswapada · Capstone Project Infinite Learning 2025
 
 <div align="center">
-  <img src="assets/logo.png" alt="Logo Nuswapada" width="200"/>
+  <img src="../assets/logo.png" width="200" alt="Logo Nuswapada"/>
 </div>
 
 ## 🌟 Tentang Kami
@@ -31,19 +31,19 @@ Menggabungkan teknologi **AI image classifier** dan sistem misi (quest), penggun
 ## 🖼️ Cuplikan Aplikasi
 
 ### 🗺️ Halaman Home - Peta Eksplorasi Pulau Penyengat  
-<img src="assets/home.jpeg" alt="Halaman Home - Map Pulau Penyengat" width="600"/>
+<img src="../assets/home.jpeg" alt="Halaman Home - Map Pulau Penyengat" width="600"/>
 
 ### 📇 Halaman Kontak  
-<img src="assets/home2.jpeg" alt="List Kontak" width="600"/>
+<img src="../assets/home2.jpeg" alt="List Kontak" width="600"/>
 
 ### 💬 Fitur Chat  
-<img src="assets/chat.jpeg" alt="Fitur Chat" width="600"/>
+<img src="../assets/chat.jpeg" alt="Fitur Chat" width="600"/>
 
 ### 🔍 Halaman Prediksi  
-<img src="assets/prediksi.jpeg" alt="Hasil Prediksi Gambar" width="600"/>
+<img src="../assets/prediksi.jpeg" alt="Hasil Prediksi Gambar" width="600"/>
 
 ### 🧑‍💼 Halaman Profil  
-<img src="assets/profile.jpeg" alt="Halaman Profile" width="600"/>
+<img src="../assets/profile.jpeg" alt="Halaman Profile" width="600"/>
 
 ---
 
