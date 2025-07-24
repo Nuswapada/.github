@@ -6,8 +6,8 @@
 
 ## 🌟 Tentang Kami
 
-**Nuswapada** adalah tim kolaborasi lintas bidang dari program AI dan Mobile Development di Infinite Learning 2025.  
-Kami memiliki misi untuk mendukung digitalisasi pariwisata lokal melalui teknologi berbasis kecerdasan buatan.
+**Nuswapada** adalah tim kolaborasi untuk Capstone Project Kampus Merdeka Mandiri Batch 8 2025 di Infinite Learning Indonesia.
+Merupakan kolaborasi antara program **Mobile Development** dan **AI Development** yang mendapat tema rural tourism dengan tema utama tahun ini adalah **Celebrate Local Tourism**.
 
 ---
 
